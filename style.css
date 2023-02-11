@@ -4,16 +4,17 @@ header {
 
 body {
   background-color: navy;
-  border-radius: 20px;
-  padding: 0.5em 0.2em 0.8em 0.5em;
 }
 
 h1 {
     color: navy;
     text-align: center;
-    background-color: white;
-    border-radius: 15px;
-    padding: 0.2em 0.2em 0.2em 0.2em;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: gray;
 }
 
 ul {
