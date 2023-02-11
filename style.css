@@ -26,3 +26,11 @@ ul {
   margin-right: auto;
   width: 50%;
 }
+
+.homeimg {
+  position: absolute;
+  top: 70px;
+  right: 0.5;
+  width: 200px;
+  height: 100px;
+}
