@@ -47,10 +47,7 @@ img {
 }
     
 .fore {
-    text-align: center;
-    border: 5px solid black;
-    padding: 15px 15px 15px 15px;
-    background-color: white;
+    color: white;
  }
 
 .center {
