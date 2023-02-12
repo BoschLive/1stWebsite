@@ -7,6 +7,10 @@ body {
     opacity: 0.8;
 }
 
+li{
+    color:white;
+}
+
 h1 {
     color: navy;
     text-align: center;
