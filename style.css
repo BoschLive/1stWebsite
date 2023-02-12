@@ -32,6 +32,7 @@ dl {
 table, td {
   border: 3px solid black;
   border-collapse: collapse;
+  background-color: white;
 }
 
 img {
