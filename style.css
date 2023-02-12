@@ -14,9 +14,10 @@ h1 {
     background-color: white;
 }
 
-ul {
+.links {
     text-align: center;
     font-size: 32px;
+    list-style: none;
 }
 
 table, td {
