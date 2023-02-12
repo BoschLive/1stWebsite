@@ -47,10 +47,10 @@ img {
 }
     
 .fore {
-    background-color: gray;
-    border: 3px navy;
-    left-margin: auto;
-    right-margin: auto;
+    text-align: center;
+    border: 5px solid black;
+    padding: 15px 15px 15px 15px;
+    background-color: white;
  }
 
 .center {
