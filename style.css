@@ -41,6 +41,13 @@ table, td {
 img {
   border: 3px solid black;
 }
+    
+.fore {
+    background-color: gray;
+    border: 3px navy;
+    left-margin: auto;
+    right-margin: auto;
+ }
 
 .center {
   display: block;
