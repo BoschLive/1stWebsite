@@ -4,6 +4,7 @@ header {
 
 body {
   background-color: navy;
+    opacity: 0.8;
 }
 
 h1 {
@@ -14,15 +15,14 @@ h1 {
     background-color: white;
 }
 
-h2 {
-    background-color: navy;
-    opacity: 0.5;
-}
-
 .links {
     text-align: center;
     font-size: 32px;
     list-style: none;
+}
+
+dl {
+    font-size: 24px;
 }
 
 table, td {
