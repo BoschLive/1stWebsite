@@ -36,6 +36,9 @@ label{
 
 .white{
     color: white;
+    border: 5px solid black;
+    padding: 15px 15px 15px 15px;
+    background-color: white;
     }
 
 table, td {
@@ -46,10 +49,7 @@ table, td {
 img {
   border: 3px solid black;
 }
-    
-.fore {
-    color: white;
- }
+   
 
 .center {
   display: block;
